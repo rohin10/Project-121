@@ -1,0 +1,33 @@
+.copy_right_footer{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width:100%;
+    background-color: grey;
+    line-height: 3;
+    text-align:center;
+}
+#div{
+    border-radius: 20px;
+    border-width: 5px;
+    border-color: rgb(244, 88, 4);
+    width:65%;
+    background-color: gray;
+}
+b{
+    color:blueviolet;
+}
+.heading{
+    width:100%;
+    font-size:25px;
+}
+body{
+    background-color:mediumpurple
+}
+#conclusion{
+    border-radius: 10px;
+    border-width: 30px;
+    background-color: brown;
+    width:50%;
+    border-color: aqua;
+}
